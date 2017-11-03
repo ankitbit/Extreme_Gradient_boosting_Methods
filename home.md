@@ -1,3 +1,2 @@
 ### 
-***When you feel like giving up, do it tomorrow. When you have finally decided that you've done all you can do, and make the call to quit -- put it off until tomorrow.  Wanting to quit isn't something that's ever going to go away. 
-The harder you struggle and the bigger your goals, the more you're going to feel the overwhelming pressure to quit*** 
+***" Whenever you feel like giving up, just convince yourself that you're going to do it tomorrow. Give today a last try wholeheartedly and such a tommorow will never come when you've to give up "***  
