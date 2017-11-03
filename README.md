@@ -7,3 +7,6 @@ Introduction to implementing XGBoost in **Python** : https://www.kaggle.com/anok
 ### Some Important Questions
 #### Feature Selection
 a) Does XGBoost handles the Multicollinearity by itself? : https://datascience.stackexchange.com/questions/12554/does-xgboost-handle-multicollinearity-by-itself
+
+
+What is the difference between the R gbm (gradient boosting machine) and xgboost (extreme gradient boosting)? :https://www.quora.com/What-is-the-difference-between-the-R-gbm-gradient-boosting-machine-and-xgboost-extreme-gradient-boosting
