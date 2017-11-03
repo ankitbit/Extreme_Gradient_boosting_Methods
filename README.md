@@ -1,8 +1,8 @@
 # Extreme Gradient boosting Methods
 
-### Python tutorials
+### Tutorials
 A Gentle Introduction: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-Introduction to implementing Extreme Gradient boosting Models (XGBoost) : https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb
+Introduction to implementing XGBoost in **Python** : https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb
 
 ### Some Important Questions
 #### Feature Selection
